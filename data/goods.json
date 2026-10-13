@@ -1,0 +1,455 @@
+{
+ "updatedAt": "2026-10-13T22:20:00+09:00",
+ "items": [
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "부산 해운대구 센텀남대로 35",
+   "cats": [
+    "event",
+    "plush",
+    "keyring"
+   ],
+   "end": "2026-05-17",
+   "hours": "월~목 10:30~20:00, 금~일 10:30~20:30",
+   "kind": "popup",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/6550"
+    }
+   ],
+   "note": "사전예약 우선, 이후 현장 대기 시스템으로 입장했어요. 운영사 인스타그램 @popcon_daewonmedia에서 다음 부산 팝업 소식을 확인할 수 있어요.",
+   "perks": "방문 시 홀로그램 스티커 1매",
+   "place": "신세계백화점 센텀시티점 지하 2층 하이퍼그라운드",
+   "price": null,
+   "regions": [
+    "busan"
+   ],
+   "series": "chiikawa",
+   "start": "2026-04-30",
+   "summary": "아기 모습이 된 치이카와 친구들 굿즈를 판매한 부산 팝업이에요.",
+   "title": "치이카와 베이비 팝업 — 부산 센텀",
+   "id": "chiikawa-baby-busan"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 영등포구 여의대로 108",
+   "cats": [
+    "event",
+    "plush",
+    "keyring",
+    "apparel",
+    "living"
+   ],
+   "end": "2026-02-19",
+   "hours": "월~목 10:30~20:00, 금~일 10:30~20:30",
+   "kind": "popup",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/content/magazine/109"
+    }
+   ],
+   "note": "키링은 품목당 1개만 구매 가능했어요.",
+   "perks": null,
+   "place": "더현대 서울 5층 에픽서울",
+   "price": "키링 21,000~30,000원, 인형 27,000원부터",
+   "regions": [
+    "seoul"
+   ],
+   "series": "chiikawa",
+   "start": "2026-02-04",
+   "summary": "키링·인형·가방·문구 등 베이비 굿즈와 가챠존이 있었던 팝업이에요.",
+   "title": "치이카와 베이비 팝업 — 더현대 서울",
+   "id": "chiikawa-baby-thehyundai"
+  },
+  {
+   "addedAt": "2026-10-13T21:50:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "brand": "CITEN (일본)",
+   "cats": [
+    "apparel",
+    "living"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "collab",
+   "links": [
+    {
+     "label": "FUN! JAPAN",
+     "url": "https://www.fun-japan.jp/ko/articles/14705"
+    }
+   ],
+   "note": "일본 판매 상품이라 국내에서는 직구나 구매대행으로 구해야 해요. 상품·색상별 1인 1개 제한.",
+   "perks": null,
+   "place": "일본 CITEN 매장·공식 온라인, 치이카와 랜드",
+   "price": "라운지웨어 8,910엔, 가방·파우치 2,530~2,970엔",
+   "regions": [
+    "online"
+   ],
+   "series": "chiikawa",
+   "start": "2026-09-15",
+   "summary": "일본 브랜드 시텐의 새틴·벨로어 라운지웨어와 가방·파우치 6종이에요.",
+   "title": "CITEN × 치이카와 라운지웨어 컨렉션",
+   "id": "chiikawa-citen-collection"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 용산구 한강대로23길 55",
+   "cats": [
+    "plush",
+    "keyring"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "KREAM",
+     "url": "https://kream.co.kr/products/814761"
+    },
+    {
+     "label": "더쿠",
+     "url": "https://theqoo.net/an/4331109001"
+    }
+   ],
+   "note": "8월 말 공식 계정에서 9월 재입고 예정이라고 안내했어요. 리셀가는 발매가보다 높게 형성돼 있어요.",
+   "perks": null,
+   "place": "치이카와샵 용산점",
+   "price": "28,000원 (발매가)",
+   "regions": [
+    "yongsan"
+   ],
+   "series": "chiikawa",
+   "start": "2026-02-27",
+   "summary": "치이카와·하치와레·우사기가 한복을 입은 한국 한정 마스코트 키링이에요.",
+   "title": "치이카와 한국 오리지널 한복 마스코트",
+   "id": "chiikawa-hanbok-mascot"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 용산구 한강대로23길 55",
+   "cats": [
+    "living"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "세계일보",
+     "url": "https://www.segye.com/newsView/20261008511196"
+    }
+   ],
+   "note": "10월 4일 매장 방문 기사에서 확인된 소식이라 정확한 출시일은 매장 공지로 확인해 주세요.",
+   "perks": null,
+   "place": "치이카와샵 용산점",
+   "price": null,
+   "regions": [
+    "yongsan"
+   ],
+   "series": "chiikawa",
+   "start": "2026-10-04",
+   "summary": "캐릭터가 들어간 윷놀이 세트와 머그컵 등 한국 오리지널 신상품이 매장에 안내돼 있어요.",
+   "title": "용산샵 ‘한국 오리지널’ 신상 (윷놀이 세트·머그컵)",
+   "id": "chiikawa-korea-original-oct"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 용산구 한강대로23길 55",
+   "cats": [
+    "event",
+    "plush",
+    "keyring",
+    "stationery"
+   ],
+   "end": "2026-06-25",
+   "hours": "매일 10:30~22:00",
+   "kind": "popup",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/7303"
+    }
+   ],
+   "note": "사전 예약 입장과 현장 선착순 입장을 함께 운영했어요.",
+   "perks": "이용 고객 홀로그램 스티커 1매",
+   "place": "아이파크몰 용산점 리빙파크 3층 도파민스테이션 더 팝업",
+   "price": null,
+   "regions": [
+    "yongsan"
+   ],
+   "series": "chiikawa",
+   "start": "2026-06-12",
+   "summary": "마법소녀로 변신한 치이카와 친구들 콘셉트의 팝업이에요.",
+   "title": "매지컬 치이카와 팝업 — 용산",
+   "id": "chiikawa-magical-yongsan"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "cats": [
+    "event"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "movie",
+   "links": [
+    {
+     "label": "일간스포츠",
+     "url": "https://isplus.com/article/view/isp202610050071"
+    },
+    {
+     "label": "TV리포트",
+     "url": "https://tvreport.co.kr/movie/article/1081056/"
+    }
+   ],
+   "note": "특전은 선착순·주차별로 바뀌니 각 극장 앱 이벤트 페이지를 확인해 주세요. 개봉 6일 만에 70만 관객을 넘었어요.",
+   "perks": "CGV TTT(삼티), 메가박스 오리지널 티켓, 메지루시 참 특전, 주차별 포스터 등 (극장·주차마다 다름)",
+   "place": "CGV·메가박스·롯데시네마 등 전국 극장",
+   "price": null,
+   "regions": [
+    "seoul",
+    "yongsan",
+    "busan"
+   ],
+   "series": "chiikawa",
+   "start": "2026-09-30",
+   "summary": "9월 30일 국내 개봉. 극장별 한정 특전을 받으려는 예매가 회차마다 매진되고 있어요.",
+   "title": "극장판 치이카와: 인어 섬의 비밀 — 극장별 특전",
+   "id": "chiikawa-movie-mermaid"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 용산구 한강대로23길 55",
+   "cats": [
+    "plush",
+    "keyring",
+    "stationery",
+    "living"
+   ],
+   "end": null,
+   "hours": "매일 10:30~22:00",
+   "kind": "store",
+   "links": [
+    {
+     "label": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202610080530371669"
+    },
+    {
+     "label": "팬플러스",
+     "url": "https://fanplus.co.kr/community/misc/136526505"
+    },
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/content/magazine/113"
+    }
+   ],
+   "note": "카드 결제만 가능. 인기 상품은 1인 구매 수량 제한이 있고, 매장 앞 줄은 입장 줄이 아니라 웨이팅 등록 기계 대기 줄이에요.",
+   "perks": null,
+   "place": "아이파크몰 용산점 리빙파크 3층 도파민스테이션",
+   "price": null,
+   "regions": [
+    "yongsan",
+    "seoul"
+   ],
+   "series": "chiikawa",
+   "start": "2026-02-27",
+   "summary": "극장판 개봉 이후 굿즈를 사려는 팬이 몰려 밤샘 대기 줄까지 생겼어요. 오픈 전 웨이팅 등록이 핵심이에요.",
+   "title": "치이카와샵 용산점 (국내 첫 공식 상설 매장)",
+   "id": "chiikawa-shop-yongsan"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": "서울 성동구 성수이로 74",
+   "cats": [
+    "event",
+    "figure",
+    "plush",
+    "stationery"
+   ],
+   "end": "2026-08-14",
+   "hours": "매일 11:00~22:00",
+   "kind": "popup",
+   "links": [
+    {
+     "label": "무신사",
+     "url": "https://www.musinsa.com/content/1526871092866249930"
+    },
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/8119"
+    }
+   ],
+   "note": "8/1~8/7은 사전 예약, 8/8~8/14는 현장 입장이었어요.",
+   "perks": "구매 시 젓가락 떡메모지, 7만 원 이상 구매 시 아크릴 젓가락 받침대",
+   "place": "무신사 스토어 성수",
+   "price": null,
+   "regions": [
+    "seoul"
+   ],
+   "series": "chiikawa",
+   "start": "2026-08-01",
+   "summary": "치이카와 친구들이 초밥으로 변신한 시리즈 굿즈 팝업이에요. 무신사 드롭에서 일부 상품을 소개했어요.",
+   "title": "치이카와 스시 팝업 — 성수",
+   "id": "chiikawa-sushi-seongsu"
+  },
+  {
+   "addedAt": "2026-10-13T21:50:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "brand": "와키윌리 (Wacky WiLLy)",
+   "cats": [
+    "apparel"
+   ],
+   "end": null,
+   "hours": "무신사 스토어 홍대 11:00~23:00",
+   "kind": "collab",
+   "links": [
+    {
+     "label": "무신사",
+     "url": "https://www.musinsa.com/content/1528981501204951200"
+    }
+   ],
+   "note": "반소매 3종, 긴소매 2종, 스웨트셔츠 2종. 온·오프라인 동시 발매됐고, 남은 사이즈는 무신사에서 확인해 주세요.",
+   "perks": null,
+   "place": "무신사 온라인, 무신사 스토어 홍대",
+   "price": null,
+   "regions": [
+    "seoul",
+    "online"
+   ],
+   "series": "chiikawa",
+   "start": "2026-08-05",
+   "summary": "치이카와 친구들 그래픽이 들어간 반팔·긴팔 티셔츠와 맨투맨 7종이에요.",
+   "title": "와키윌리 × 먼작귀 의류 콜라보",
+   "id": "chiikawa-wackywilly-musinsa"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "cats": [
+    "figure"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "Toy People",
+     "url": "https://www.toy-people.com/en/?p=109957"
+    }
+   ],
+   "note": "일본 출시 경품이라 국내에는 인형뽑기샵·애니 굿즈샵·중고 플랫폼으로 순차 유입돼요. 국내 입고 소식이 보이면 추가할게요.",
+   "perks": null,
+   "place": "일본 경품(크레인게임) 출시",
+   "price": null,
+   "regions": [
+    "online"
+   ],
+   "series": "kon",
+   "start": "2026-10-01",
+   "summary": "검은 소악마 의상의 후류 경품 피규어예요. 10월 유이, 11월 아즈사, 12월 미오 순서로 나와요.",
+   "title": "케이온 BiCute Dark 경품 피규어 (유이·아즈사·미오)",
+   "id": "kon-bicute-dark"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "cats": [
+    "figure"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "Siliconera",
+     "url": "https://www.siliconera.com/?p=1121210"
+    }
+   ],
+   "note": "8월 28일 아즈사·유이, 9월 18일 미오·리츠·츠무기가 일본에서 나왔어요. 원작 20주년(2027년 4월)을 앞둔 라인업이에요.",
+   "perks": null,
+   "place": "일본 경품(크레인게임) 출시",
+   "price": null,
+   "regions": [
+    "online"
+   ],
+   "series": "kon",
+   "start": "2026-08-28",
+   "summary": "방과후 티타임 다섯 명이 찻잔에 앉은 세가 경품 피규어예요. 높이 약 15~18cm.",
+   "title": "케이온 Luminasta 피규어 5종 (찻잔 포즈)",
+   "id": "kon-luminasta"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "cats": [
+    "gacha",
+    "keyring"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "Toy People",
+     "url": "https://www.toy-people.com/en/?p=114132"
+    }
+   ],
+   "note": "12월 하순 일본 출시 예정이라 날짜는 대략이에요. 국내 가챠샵 입고는 보통 그 뒤에 이어져요.",
+   "perks": null,
+   "place": "반다이 가샤폰 (일본)",
+   "price": "1회 400엔",
+   "regions": [
+    "online"
+   ],
+   "series": "kon",
+   "start": "2026-12-20",
+   "summary": "우산이나 물병에 끼울 수 있는 약 3.5cm 미니 캐릭터 참이에요.",
+   "title": "케이온 마커 참 가챠 (5종)",
+   "id": "kon-marker-charm"
+  },
+  {
+   "addedAt": "2026-10-13T21:30:00+09:00",
+   "addedBy": "claude",
+   "address": null,
+   "cats": [
+    "figure"
+   ],
+   "end": null,
+   "hours": null,
+   "kind": "release",
+   "links": [
+    {
+     "label": "Toy People",
+     "url": "https://www.toy-people.com/en/?p=106961"
+    }
+   ],
+   "note": "‘2026년 늦여름’ 출시로만 발표돼서 날짜는 대략이에요.",
+   "perks": null,
+   "place": "일본 경품(크레인게임) 출시",
+   "price": null,
+   "regions": [
+    "online"
+   ],
+   "series": "kon",
+   "start": "2026-08-25",
+   "summary": "다섯 멤버가 오리지널 흰 드레스를 입은 세가 경품 피규어예요.",
+   "title": "케이온 Yumemirize 화이트 드레스 피규어 5종",
+   "id": "kon-yumemirize"
+  }
+ ]
+}

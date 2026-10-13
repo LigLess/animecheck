@@ -1,0 +1,148 @@
+{
+ "updatedAt": "2026-10-13T22:20:00+09:00",
+ "shops": [
+  {
+   "address": "부산 부산진구 중앙대로 672",
+   "carries": [
+    "chiikawa",
+    "kon"
+   ],
+   "floor": "서면 삼정타워 11층",
+   "goods": "부산의 대표 일본 애니 굿즈 매장. 작품별 페어가 열려요.",
+   "hours": "일~목 11:00~21:40, 금·토 11:00~22:10",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/9204"
+    }
+   ],
+   "name": "애니메이트 부산점",
+   "note": "치이카와·케이온 상품 입고 여부는 매장 공지로 확인해 주세요.",
+   "official": false,
+   "regions": [
+    "busan"
+   ],
+   "short": "애니메이트 부산",
+   "id": "animate-busan"
+  },
+  {
+   "address": "서울 마포구 양화로 188",
+   "carries": [
+    "chiikawa",
+    "kon"
+   ],
+   "floor": "AK PLAZA 홍대 5층",
+   "goods": "일본 애니·게임 굿즈 종합 매장. 작품별 페어(기간 한정 굿즈전)가 자주 열려요.",
+   "hours": "평일 11:00~21:40, 주말 10:30~21:40",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/11700"
+    }
+   ],
+   "name": "애니메이트 홍대점",
+   "note": "치이카와·케이온 상품 입고 여부는 매장 공지(인스타그램·X)로 확인해 주세요.",
+   "official": false,
+   "regions": [
+    "seoul"
+   ],
+   "short": "애니메이트 홍대",
+   "id": "animate-hongdae"
+  },
+  {
+   "address": "부산 부산진구 중앙대로 672",
+   "carries": [
+    "chiikawa",
+    "kon"
+   ],
+   "floor": "서면 삼정타워 9층",
+   "goods": "애니메이트 부산점과 같은 건물에 있어서 한 번에 둘러보기 좋아요.",
+   "hours": "매일 11:00~22:00 (행사 기간 안내 기준)",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/popup/8127"
+    }
+   ],
+   "name": "애니플러스 부산서면점",
+   "note": "취급 작품은 시기마다 달라요.",
+   "official": false,
+   "regions": [
+    "busan"
+   ],
+   "short": "애니플러스 부산",
+   "id": "aniplus-busan"
+  },
+  {
+   "address": "서울 마포구 월드컵로3길 14",
+   "carries": [
+    "chiikawa",
+    "kon"
+   ],
+   "floor": null,
+   "goods": "애니 굿즈숍 겸 콜라보 카페. 홍대에서 걸어갈 수 있어요.",
+   "hours": "매일 10:00~22:00 (행사 기간 안내 기준)",
+   "links": [
+    {
+     "label": "팝가",
+     "url": "https://popga.co.kr/content/magazine/327"
+    }
+   ],
+   "name": "애니플러스 서울 합정점",
+   "note": "취급 작품은 시기마다 달라서 방문 전 공지를 확인하는 게 좋아요.",
+   "official": false,
+   "regions": [
+    "seoul"
+   ],
+   "short": "애니플러스",
+   "id": "aniplus-hapjeong"
+  },
+  {
+   "address": "서울 용산구 한강대로23길 55",
+   "carries": [
+    "chiikawa"
+   ],
+   "floor": "아이파크몰 용산점 리빙파크 3층 도파민스테이션",
+   "goods": "국내 유일 공식 상설 매장. 마스코트·인형·한국 오리지널 상품",
+   "hours": "매일 10:30~22:00",
+   "links": [
+    {
+     "label": "팬플러스",
+     "url": "https://fanplus.co.kr/community/misc/136526505"
+    }
+   ],
+   "name": "치이카와샵 용산점",
+   "note": "카드 결제만 가능. 신상 입고일엔 오픈 전 웨이팅 등록이 필요할 만큼 붐벼요.",
+   "official": true,
+   "regions": [
+    "yongsan",
+    "seoul"
+   ],
+   "short": "용산",
+   "id": "chiikawa-shop-yongsan"
+  },
+  {
+   "address": null,
+   "carries": [
+    "chiikawa"
+   ],
+   "floor": null,
+   "goods": "치이카와 콜라보 블라인드 박스·마스코트 등을 판매해요.",
+   "hours": null,
+   "links": [
+    {
+     "label": "서플",
+     "url": "https://supple.kr/news/cmrs96av4000b106tkeo8yhou"
+    }
+   ],
+   "name": "미니소 홍대점",
+   "note": "올해 7월 매장 취재 기사 기준. 재고가 자주 바뀌어요.",
+   "official": false,
+   "regions": [
+    "seoul"
+   ],
+   "short": "미니소",
+   "id": "miniso-hongdae"
+  }
+ ]
+}
