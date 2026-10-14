@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T22:00:00+09:00",
+ "updatedAt": "2026-10-15T08:00:00+09:00",
  "items": [
   {
    "addedAt": "2026-10-13T21:30:00+09:00",
@@ -587,6 +587,36 @@
    ],
    "addedBy": "claude",
    "addedAt": "2026-10-14T21:55:00+09:00"
+  },
+  {
+   "id": "chiikawa-blanket-market-oct",
+   "series": "chiikawa",
+   "kind": "release",
+   "brand": null,
+   "cats": [
+    "living"
+   ],
+   "title": "치이카와 ‘따끈따끈 몽실몽실 블랭킷’ 4종",
+   "summary": "쫀득하고 부드러운 촉감의 치이카와 담요 4종이 일본 공식 온라인숍 치이카와마켓에 새로 나왔어요.",
+   "regions": [
+    "online"
+   ],
+   "place": "치이카와마켓 (일본 공식 온라인숍)",
+   "address": null,
+   "start": "2026-10-09",
+   "end": null,
+   "hours": null,
+   "price": "각 3,850엔",
+   "perks": null,
+   "note": "10월 9일 오전 11시(일본 시간) 발매. 일본 공식몰 상품이라 국내에서는 직구나 배송대행이 필요해요.",
+   "links": [
+    {
+     "label": "치이카와 마켓 공식 (한국어) X",
+     "url": "https://x.com/chiikawa_m_kr/status/2108367771419775473"
+    }
+   ],
+   "addedBy": "claude",
+   "addedAt": "2026-10-15T08:00:00+09:00"
   }
  ]
 }
