@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T22:20:00+09:00",
+ "updatedAt": "2026-10-14T12:00:00+09:00",
  "items": [
   {
    "addedAt": "2026-10-13T21:30:00+09:00",
@@ -450,6 +450,44 @@
    "summary": "다섯 멤버가 오리지널 흰 드레스를 입은 세가 경품 피규어예요.",
    "title": "케이온 Yumemirize 화이트 드레스 피규어 5종",
    "id": "kon-yumemirize"
+  },
+  {
+   "id": "kon-chillfigg-5set",
+   "series": "kon",
+   "kind": "release",
+   "brand": null,
+   "cats": [
+    "figure"
+   ],
+   "title": "케이온 CHILLfigg 피규어 5종 세트",
+   "summary": "유이·미오·리츠·츠무기·아즈사가 느긋한 포즈의 CHILLfigg 피규어(높이 약 160mm)로 나와 5종 세트로 발매돼요.",
+   "regions": [
+    "online"
+   ],
+   "place": "굿스마일컴퍼니 공식 온라인숍 및 피규어 판매처",
+   "address": null,
+   "start": "2026-09-30",
+   "end": null,
+   "hours": null,
+   "price": null,
+   "perks": null,
+   "note": "발매일은 판매처 기준 9월 30일(대략 2026년 9월 예정). 예약은 3월 5일~4월 15일에 마감돼서 지금은 재고가 남은 판매처에서만 살 수 있어요. 일본 상품이라 국내 판매처 재고가 없으면 직구가 필요해요.",
+   "links": [
+    {
+     "label": "굿스마일컴퍼니 한국어 상품정보 (X)",
+     "url": "https://x.com/GoodsmileP/status/2029396376044614073"
+    },
+    {
+     "label": "inside-games",
+     "url": "https://www.inside-games.jp/article/2026/03/05/178195.html"
+    },
+    {
+     "label": "toy-people",
+     "url": "https://www.toy-people.com/jp/?p=107495"
+    }
+   ],
+   "addedBy": "claude",
+   "addedAt": "2026-10-14T12:00:00+09:00"
   }
  ]
 }
