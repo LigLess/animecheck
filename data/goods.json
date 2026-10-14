@@ -543,6 +543,46 @@
    ],
    "addedBy": "claude",
    "addedAt": "2026-10-14T21:40:00+09:00"
+  },
+  {
+   "id": "chiikawa-spao-summer-2026",
+   "series": "chiikawa",
+   "kind": "collab",
+   "brand": "스파오 (SPAO)",
+   "cats": [
+    "apparel"
+   ],
+   "title": "스파오 × 먼작귀 썸머 컬렉션",
+   "summary": "치이카와·하치와레·우사기·모몽가 그래픽 반팔 티셔츠와 투명한 빨간 비치백·파우치가 나온 여름 콜라보예요.",
+   "regions": [
+    "online",
+    "seoul",
+    "busan"
+   ],
+   "place": "스파오닷컴, 무신사, 스파오 오프라인 매장",
+   "address": null,
+   "start": "2026-05-20",
+   "end": null,
+   "hours": null,
+   "price": "반팔 티셔츠 각 25,900원, 비치백 19,900원, 파우치 9,900원, 반팔 파자마 각 39,900원 (스파오 공식 X 기준)",
+   "perks": null,
+   "note": "5월 20일 오전 11시 출시(오프라인은 매장 오픈 시간). 여름 시즌 상품이라 지금 남은 재고가 있는지는 확인되지 않았어요. 스파오닷컴·무신사에서 재고를 확인해 주세요. 서울·부산 중 어느 매장에 들어갔는지는 공식 안내에 없어서 가까운 스파오 매장에 확인이 필요해요.",
+   "links": [
+    {
+     "label": "무신사(5/20 콘텐츠)",
+     "url": "https://www.musinsa.com/content/1502130856368518677"
+    },
+    {
+     "label": "스파오 공식 X",
+     "url": "https://x.com/SpaoKr/status/2054543986912547321"
+    },
+    {
+     "label": "스파오닷컴 기획전",
+     "url": "https://www.spao.com/p/planshop?exhibitionNo=202605000538"
+    }
+   ],
+   "addedBy": "claude",
+   "addedAt": "2026-10-14T21:55:00+09:00"
   }
  ]
 }
