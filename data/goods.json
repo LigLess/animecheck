@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T12:00:00+09:00",
+ "updatedAt": "2026-10-14T21:40:00+09:00",
  "items": [
   {
    "addedAt": "2026-10-13T21:30:00+09:00",
@@ -488,6 +488,42 @@
    ],
    "addedBy": "claude",
    "addedAt": "2026-10-14T12:00:00+09:00"
+  },
+  {
+   "id": "chiikawa-cgv-popcorn-bucket",
+   "series": "chiikawa",
+   "kind": "movie",
+   "brand": "CGV",
+   "cats": [
+    "living",
+    "event"
+   ],
+   "title": "CGV × 극장판 치이카와 먼작귀 팝콘통 (3종)",
+   "summary": "치이카와·하치와레·우사기 얼굴 모양 팝콘통에 크로스 스트랩이 달려 있어 가방처럼 멜 수 있어요.",
+   "regions": [
+    "seoul",
+    "yongsan"
+   ],
+   "place": "CGV 지정 25개 극장 매점 (서울: 강남·강변·고덕강일·구로·방학·상봉·수유·연남·영등포타임스퀘어·왕십리·용산아이파크몰·중계·홍대)",
+   "address": null,
+   "start": "2026-09-30",
+   "end": null,
+   "hours": null,
+   "price": "29,000원 (대리구매 글 기준, 공식가는 극장에서 확인)",
+   "perks": null,
+   "note": "현장 매점 구매만 가능하고 CGV 패스트오더에서는 안 팔아요. 캐릭터별 1인 최대 2개, 할인·쿠폰 불가. 1차 판매는 지점별 재고 소진 시 종료. 1차 판매 극장에 부산 지점은 없어요. 2차 판매 일정은 추후 공지 예정이라 CGV 앱 공지를 확인해 주세요.",
+   "links": [
+    {
+     "label": "bnt뉴스(다음)",
+     "url": "https://v.daum.net/v/20260930110631239"
+    },
+    {
+     "label": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1184046"
+    }
+   ],
+   "addedBy": "claude",
+   "addedAt": "2026-10-14T21:40:00+09:00"
   }
  ]
 }
