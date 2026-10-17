@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T08:00:00+09:00",
+ "updatedAt": "2026-10-18T08:00:00+09:00",
  "items": [
   {
    "addedAt": "2026-10-13T21:30:00+09:00",
@@ -206,6 +206,14 @@
    "kind": "movie",
    "links": [
     {
+     "label": "톱스타뉴스(168만·1위, 통합전산망)",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250299"
+    },
+    {
+     "label": "재경일보(150만, 통합전산망)",
+     "url": "https://news.jkn.co.kr/post/1030229"
+    },
+    {
      "label": "금강일보(3주차 특전)",
      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187251"
     },
@@ -242,7 +250,7 @@
    ],
    "series": "chiikawa",
    "start": "2026-09-30",
-   "summary": "9월 30일 전국 개봉한 첫 극장판이에요. 10월 12일까지 누적 관객 131만 명을 넘었고, 극장별·주차별 특전이 계속 바뀌고 있어요.",
+   "summary": "9월 30일 전국 개봉한 첫 극장판이에요. 10월 17일까지 누적 관객 168만 명을 넘어 박스오피스 1위에 올랐고, 극장별·주차별 특전이 계속 바뀌고 있어요.",
    "title": "극장판 치이카와: 인어 섬의 비밀 — 극장별 특전",
    "id": "chiikawa-movie-mermaid"
   },
